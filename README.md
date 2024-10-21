@@ -1,5 +1,5 @@
 # EX-DRL-pytorch
-**Unofficial** implementation of the paper ["EX-DRL: Hedging Against Heavy Losses with Extreme Distributional Reinforcement Learning"]([link](https://arxiv.org/pdf/2408.12446))[[1]](#1) The main implementation by the corresponding author is available in this[ repository]([link](https://github.com/pmalekzadeh/EX-DRL))[[2]](#2)
+**Unofficial** implementation of the paper ["EX-DRL: Hedging Against Heavy Losses with Extreme Distributional Reinforcement Learning"](https://arxiv.org/pdf/2408.12446)[[1]](#1) The main implementation by the corresponding author is available in this[ repository](https://github.com/pmalekzadeh/EX-DRL)[[2]](#2)
 
 
 
